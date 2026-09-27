@@ -26,6 +26,10 @@ Within the [Documentation](https://theaxelander.github.io) you will find all the
 
 For a quick ramp-up up of OpenBudgeteer using Docker and MariaDB see [here](https://theaxelander.github.io/latest/quick-start/).
 
+## ☁️ One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/openbudgeteer/)
+
 ## Screenshots
 
 ![Account Page](assets/account.png)
